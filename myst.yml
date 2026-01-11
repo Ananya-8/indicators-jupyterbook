@@ -1,0 +1,8 @@
+version: 1
+project:
+  title: Indicators Jupyter Book
+  authors:
+    - name: Ananya
+  
+site:
+  template: book-theme
